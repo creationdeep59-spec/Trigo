@@ -15,7 +15,7 @@ const demoRestaurants = [
     deliveryTimeMins: 28,
     isPromoted: true,
     offer: "50% OFF up to ₹100",
-    location: { address: "GS Road", city: "Guwahati", lat: 26.1445, lng: 91.7362 },
+    location: { address: "GS Road", city: "Kolkata", lat: 26.1445, lng: 91.7362 },
     menu: [
   { name: "Butter Chicken", price: 320, veg: false, category: "Main Course", image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=400" },
   { name: "Paneer Tikka", price: 260, veg: true, category: "Starters", image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=400" },
@@ -48,7 +48,7 @@ const demoRestaurants = [
     deliveryTimeMins: 30,
     isPromoted: true,
     offer: "Buy 1 Get 1 Free",
-    location: { address: "Fancy Bazar", city: "Guwahati", lat: 26.1867, lng: 91.7458 },
+    location: { address: "Fancy Bazar", city: "Agartala", lat: 26.1867, lng: 91.7458 },
     menu: [
       { name: "Margherita Pizza", price: 280, veg: true, category: "Pizza", image: "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400" },
       { name: "Farmhouse Pizza", price: 340, veg: true, category: "Pizza", image: "https://images.unsplash.com/photo-1571066811602-716837d681de?w=400" },
